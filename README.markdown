@@ -2,7 +2,7 @@
 
 KuduVfs is an implementation of IFileSystem (System.IO.Abstractions) back by [Kudu's Vfs](https://github.com/projectkudu/kudu/wiki).
 
-It includes the library (VfsFileSystem) and companion operation executables (like xcopy, dir, mkdir del, rmdir etc.).
+It includes the library (VfsFileSystem) and companion executables (like xcopy, dir, mkdir del, rmdir etc.).
 
 ### Disclaimers
 
